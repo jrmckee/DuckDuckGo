@@ -1,4 +1,5 @@
 import requests
+import pytest
 
 url_ddg = "https://api.duckduckgo.com"
 presidents = ["Washington", "Adams", "Jefferson", "Madison", "Monroe", "Van Buren", "Harrison", "Tyler", "Polk", "Taylor",
